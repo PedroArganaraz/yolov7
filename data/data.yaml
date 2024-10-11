@@ -1,5 +1,0 @@
-train: ../train/images
-val: ../valid/images
-
-nc: 14
-names: ['alfil', 'alfil-blanco', 'alfil-negro', 'caballo-blanco', 'caballo-negro', 'esquina', 'peon-blanco', 'peon-negro', 'reina-blanco', 'reina-negro', 'rey-blanco', 'rey-negro', 'torre-blanco', 'torre-negro']
